@@ -9,7 +9,7 @@
 
 ## 🌐 Acesse o projeto
 
-👉 **[clone-uber.vercel.app]([https://clone-uber.vercel.app](https://clone-uber-uyff.vercel.app/))** 
+👉 **clone-uber.vercel.app** 
 
 ---
 
