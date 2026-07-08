@@ -9,7 +9,7 @@
 
 ## 🌐 Acesse o projeto
 
-👉 **[clone-uber.vercel.app](https://clone-uber.vercel.app)** *(substitua pelo link real)*
+👉 **[clone-uber.vercel.app]([https://clone-uber.vercel.app](https://vercel.com/leomelo23s-projects/clone-uber/EZfR56KwqeVKvUN87aZy1cb2tdUf))** 
 
 ---
 
@@ -48,20 +48,6 @@ Este projeto faz parte da minha jornada de aprendizado no curso de Tailwind CSS 
 
 ---
 
-## 🚀 Como rodar localmente
-
-```bash
-# Clone o repositório
-git clone https://github.com/LeoMelo23/clone-uber.git
-
-# Acesse a pasta
-cd clone-uber
-
-# Abra o index.html no navegador
-# (ou use a extensão Live Server no VS Code)
-```
-
----
 
 ## 📖 Sobre o curso
 
@@ -71,4 +57,4 @@ Projeto desenvolvido como exercício prático do curso de **Tailwind CSS** com o
 
 ## 👨‍💻 Autor
 
-Feito com 💙 por **[Leonardo Melo](https://github.com/LeoMelo23)**
+Feito por **[Leonardo Melo](https://github.com/LeoMelo23)**
