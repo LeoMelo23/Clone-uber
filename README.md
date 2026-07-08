@@ -9,7 +9,7 @@
 
 ## 🌐 Acesse o projeto
 
-👉 **[clone-uber.vercel.app]([https://clone-uber.vercel.app](https://vercel.com/leomelo23s-projects/clone-uber/EZfR56KwqeVKvUN87aZy1cb2tdUf))** 
+👉 **[clone-uber.vercel.app]([https://clone-uber.vercel.app](https://clone-uber-uyff.vercel.app/)** 
 
 ---
 
